@@ -1,0 +1,23 @@
+{
+    "students": [{
+            "id": 1,
+            "name": "Rahul Sharma",
+            "email": "rahul@example.com",
+            "course": "B.Tech CSE",
+            "year": "3rd",
+            "gpa": 8.7
+        },
+        {
+            "id": 2,
+            "name": "Priya Patel",
+            "email": "priya@example.com",
+            "course": "B.Sc IT",
+            "year": "2nd",
+            "gpa": 9.1
+        }
+    ],
+    "admin": {
+        "username": "admin",
+        "password": "admin123"
+    }
+}

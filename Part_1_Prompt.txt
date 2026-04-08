@@ -1,0 +1,45 @@
+Build a full-stack Student Service Portal web application.
+
+Requirements:
+
+Frontend:
+- Use HTML, CSS, and JavaScript
+- Use clean UI
+- Mobile responsive design
+- Include navigation bar on all pages
+- Create exactly 6 pages:
+  1. Home Page
+  2. About Page
+  3. Services Page
+  4. Contact Page (with form)
+  5. Login Page (basic validation only)
+  6. Admin Page (to view submitted data)
+
+Backend:
+- Use Node.js with Express
+- Backend must handle API requests
+- Create REST APIs:
+  - GET API to fetch data from database
+  - POST API to store form data
+
+Database:
+- Use JSON file as database
+- Store contact form submissions in JSON file
+- Data must persist (no temporary variables)
+
+Functionality:
+- Contact form should send data to backend using POST request
+- Backend must save data into JSON file
+- Admin page must fetch data using GET request
+- Admin page should display all submitted data dynamically
+
+Other Requirements:
+- Do not use any database like MongoDB or MySQL
+- Do not hardcode data
+- Keep project structure clean (separate frontend and backend)
+- Use proper file structure (routes, server, public folder)
+- Add comments in code for understanding
+
+Output:
+- Provide complete working code for frontend and backend
+- Include instructions to run the project
